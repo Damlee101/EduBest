@@ -1,0 +1,16 @@
+/* THIS STYLING IS FOR ALL THE FOUR PAGES */
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ body {
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+ /* Landing Page Background */
+ #hero {
+  background: url(../images/landing-image.avif) center / cover no-repeat;
+}
